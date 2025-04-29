@@ -2,6 +2,9 @@
 
 Welcome to the Google Cloud Arcade Points Calculator! Google Cloud has launched the Cloud Skills Boost Arcade program, offering participants a chance to learn, score points, and earn Google Cloud Swags. But keeping track of those points can be a bit challenging—until now!
 
+![image](https://github.com/user-attachments/assets/404da669-1ca7-4b7b-b06d-ebaa297c6508)
+![image](https://github.com/user-attachments/assets/fec101c7-1171-4879-b171-d1bae29ac532)
+
 This tool is designed to help you effortlessly monitor your progress with **accurate calculations** so you can stay focused on learning and achieving your goals.
 
 ## 🌟 Features
