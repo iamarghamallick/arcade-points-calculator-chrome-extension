@@ -1,25 +1,33 @@
-# 🚀 Arcade Points Calculator : Chrome Extension [2024]🎉
+# 🚀 [Updated] Arcade Points Calculator : Chrome Extension [2025]🎉
 
-Welcome to the Unofficial Google Arcade Points Calculator! Google has recently launched the Cloud Skills Boost program, offering participants a chance to learn, earn points, and score some awesome swag. But keeping track of those points can be a bit challenging—until now!
+Welcome to the Google Cloud Arcade Points Calculator! Google Cloud has launched the Cloud Skills Boost Arcade program, offering participants a chance to learn, score points, and earn Google Cloud Swags. But keeping track of those points can be a bit challenging—until now!
 
 This tool is designed to help you effortlessly monitor your progress with **accurate calculations** so you can stay focused on learning and achieving your goals.
 
 ## 🌟 Features
 
-- **Intuitive Interface**: User-friendly and easy to navigate.
-- **Precise Point Calculations**: Get accurate point tracking based on your progress.
-- **Effortless Progress Tracking**: Stay on top of your achievements with minimal effort.
-- **Regular Updates**: Updated based on the latest official guidelines to ensure accuracy.
+- **Intuitive Interface**: Clean, user-friendly design that’s easy to navigate.  
+- **Accurate Point Calculation**: Precisely tracks your Arcade Points based on your profile progress.  
+- **Live Milestone Tracker**: Monitor your real-time progress toward milestones with detailed insights.  
+- **Badge Summary**: View a clear summary of all earned badges along with completion timestamps.  
+- **Auto Updates**: Stay aligned with the latest program announcements and guidelines to maximize your benefits.
+
+---
 
 ## 🚀 How It Works
 
-Simply paste your **Public-Profile-URL** into the tracker, and it will do the rest. The calculator will fetch your details and provide a precise count of your points.
+1. Paste your **Public Profile URL** into the input field.  
+2. The system will instantly fetch your profile data.  
+3. You’ll get:
+   - Your **total Arcade Points**
+   - A **live milestone tracker**
+   - A complete **badge summary** – all in one view!
 
 ### [👉 Try It Now!](https://arcadepoints.vercel.app/)
 
 ## 📈 Why Use This Tool?
 
-Whether you’re a seasoned Google Cloud professional or just starting out, this calculator is your go-to tool for keeping track of your points and progress in the Google Arcade program.
+Whether you’re a seasoned Google Cloud professional or just starting out, this calculator is your go-to tool for keeping track of your Arcade Points and progress in the Google Cloud Arcade program.
 
 
 # Arcade Points Calculator - Chrome Extension Installation Guide
